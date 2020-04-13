@@ -1,4 +1,4 @@
-% COVID 19_data_from:
+# COVID-19-GLOBAL_data_from:
 
 Johns Hopkins University & Medicine 
 https://coronavirus.jhu.edu/map.html
